@@ -4,7 +4,7 @@ title: IWDS 2024
 subtitle: Official  page of the 1st edition of the International Workshop on Designing Software
 ---
 
-# 1st International Workshop on Designing Software (IWDS'23)
+# 1st International Workshop on Designing Software (IWDS'24)
 
 Software design is a set of activities and decisions that are involved in the construction of a software system, ranging from high-level architecture and conceptual design to code design. Decisions made during the software design process have a long-lasting impact on various qualities of a system, such as modularity, maintainability, scalability, robustness, security, usability, and performance. Despite its important role in software development, design is still a subject that is still relatively little understood by both researchers and engineers – particularly in terms of design as an activity rather than design as a product/outcome. Although exceptions exist, in practice design is frequently carried out in a somewhat ad-hoc, implicit manner. Teams often succeed in some way, though not always. Collectively, the research community has to date little systematic understanding of what makes certain designs and design processes successful, how to package and transfer knowledge about design and designing between teams and organizations, and how to design systems that are robust against a continuously evolving context. Teaching software design also remains a challenge for educators, with design being considered a skill that is acquired mainly through experience rather than something that can be taught in classrooms. 
 
