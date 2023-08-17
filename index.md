@@ -1,164 +1,48 @@
 ---
 layout: page
-title: RoSE 2023
-subtitle: Official web page of the 5th edition of the RoSE international workshop
+title: IWDS 2024
+subtitle: Official  page of the 1st edition of the International Workshop on Designing Software
 ---
 
-# 5th International Workshop on Robotics Software Engineering (RoSE'23)
+# 1st International Workshop on Designing Software (IWDS'23)
 
-- Co-located with [ICSE 2023](https://conf.researchr.org/home/icse-2023)
-- Hybrid event, with collaborative/social session in Melbourne, Australia
-- May 15, 2023
+## Goals
+Software design is a set of activities and decisions that are involved in the construction of a software system, ranging from high-level architecture and conceptual design to code design. Decisions made during the software design process have a long-lasting impact on various qualities of a system, such as modularity, maintainability, scalability, robustness, security, usability, and performance. Despite its important role in software development, design is still a subject that is still relatively little understood by both researchers and engineers – particularly in terms of design as an activity rather than design as a product/outcome. Although exceptions exist, in practice design is frequently carried out in a somewhat ad-hoc, implicit manner. Teams often succeed in some way, though not always. Collectively, the research community has to date little systematic understanding of what makes certain designs and design processes successful, how to package and transfer knowledge about design and designing between teams and organizations, and how to design systems that are robust against a continuously evolving context. Teaching software design also remains a challenge for educators, with design being considered a skill that is acquired mainly through experience rather than something that can be taught in classrooms. 
 
-## Best Paper award
-The RoSE 2023 Best Paper award was given to the following paper and authors:
-```
-An analysis of behaviour-driven requirement specification for robotic competitions
-Minh Nguyen, Nico Hochgeschwender and Sebastian Wrede
-```
-Congratulations to all authors for their excellent work!
-
-The best paper award is associated to a free-of-charge publication of a positively reviewed submission to the special issue on Software Engineering of the Frontiers in Robotics and AI journal. For more details, please see below.
-
-## Theme & Goals
-Increasingly, challenging domains employ robotic applications. Yet, Robotics still is one of the most challenging domains for software engineering. Deploying robotics applications requires integrating solutions from experts of various domains, including navigation, path planning, manipulation, localization, human-robot interaction, etc. Integration of modules contributed by respective domain experts is one of the key challenges in engineering software-centric systems, yet only one of the cross-cutting software concerns crucial to robotics. As robots often operate in dynamic, partially observable environments additional challenges include adaptability, robustness, safety, and security.
-
-The goal of RoSE 2023 is to bring together researchers from participating domains with practitioners to identify new frontiers in robotics software engineering, discuss challenges raised by real-world applications, and transfer latest insights from research to industry. RoSE 2023 will solicit contributions from both academic and industrial participants, thus fostering active synergy between the two communities.
+This workshop aims to bring together researchers, practitioners, and educators who are interested in any aspect of software design, though we hope to place a specific focus on designing software as an activity in which developers, teams, and organizations engage. The workshop seeks to identify new directions and open challenges for the field. The workshop will be highly interactive and discussion-based, centered around a core set of topics on software design research and education. Each session will begin with short presentations by participants on a topic and proceed with breakout sessions to discuss the topic in depth. The outcome of the workshop is expected to be a report summarizing open problems, promising approaches, and next steps for advancing the state-of-the-art in software design practices and education.
 
 ## Topics of Interest
 
-RoSE 2023 seeks contributions addressing, but not limited to, the following
-topics related to robotics software engineering:
-- Analysis of challenges in robotic software engineering
-- Architectures that lead to reusable robotic software
-- Challenges for defining and integrating domain-specific languages for the design of robotic systems
-- Continuous integration and deployment in robotics
-- Identification and analysis of design principles promoting quality of service (e.g., performance, energy efficiency)
-- Engineering the collaboration of multiple (heterogeneous) robots
-- Machine learning for safety-critical robotic systems
-- Metrics to measure non-functional properties (e.g., robustness, availability, etc.) and their application in robotic software
-- Best practices in engineering robotic software
-- Variability, modularity, and reusability in robotic software
-- Validation and verification of robotic software
-- Processes and tools supporting the engineering and development of robotic systems
-- State-of-the-art research projects, innovative ideas, and field-based studies in robotic software engineering
-- Lessons learned in the engineering and deployment of large-scale, real-world integrated robot
-
-## Keynotes
-
-We are happy to host the following keynote speaker:
-
-<img src="/img/CamiloBuscaron.jpg" alt="Camilo Buscaron" style="width: 30em;" />
-
-[Camilo Buscaron](https://www.linkedin.com/in/camilo-buscaron-93739827) is a robotics technologist and strategist. With nearly two decades of experience building robots, robotics technology and industrial automation.
-Cam has contributed to the design and development of a large-scale hardware-in-the-loop simulation systems for self-driving cars and warehouse autonomous mobile robots (AMRs).
-
-**Building, testing, and deploying safety critical software for robots and autonomous systems.**
-Robotics is a rapidly growing field, with applications in logistics, industrial, agricultural and medical been adopted at a record pace.
-As growth accelerates, the need for safety critical, secure and reliable software has become an imperative in most production applications.
-Cloud connectivity, and the ability to perform over the air software updates to an existing fleet of robots has become essential to robot developers and software engineers.
-This presentation will describe some of the common challenges robot developers encounter in deploying software in production environments and how researchers can benefit from leveraging the same general-purpose tools and solutions to tackle and contribute to the advancement those challenges.
-
-
-## Workshop Program
-
-**RoSE '23' is virtually hosted on [Zoom](TBD)**
-
-Times are displayed in AEST (GMT+10).
-
-| Time | Title | Who |
-| --- |  --- | --- |
-| 09:00 AM | **Welcome to RoSE '23** | RoSE's OC |
-| 09:10 AM | **Building, testing, and deploying safety critical software for robots and autonomous systems** | Camilo Buscaron |
-| 10:00 AM | **Session 1** | *Chair: Andreas Angerer* |
-| | Towards the concept of trust assurance case | Emilia Cioroaica, Barbora Buhnova, Daniel Schneider, Ioannis Sorokos, Thomas Kuhn and Emrah Tomur |
-| | Enhancing the technological maturity of robot swarms | Darko Bozhinoski and Mauro Birattari |
-| 10:30 AM | **Morning tea** | |
-| 11:00 AM | **Session 2** | *Chair: Andreas Angerer* |
-| | Survey on robotic systems integration | Nadia Hammoudeh Garcia and Andreas Wortmann |
-| | An analysis of behaviour-driven requirement specification for robotic competitions | Minh Nguyen, Nico Hochgeschwender and Sebastian Wrede |
-| | EDDE: an event-driven data exchange to accurately introspect cobot applications | Emil Stubbe Kolvig-Raun, Mikkel Baun Kjærgaard and Ralph Brorsen |
-| | Lifting ROS to model-driven development: lessons learned from a bottom-up approach | Nadia Hammoudeh Garcia, Harshavardhan Deshpande, Ruichao Wu, Björn Kahl and Andreas Wortmann |
-| | Getting started with ROS2 development: a case study of software development challenges | Paulius Daubaris, Simo Linkola, Anna Kantosalo and Niko Mäkitalo |
-| | UAV inspection of large components: determination of alternative inspection point and online route optimization | Martin Schörner, Constantin Wanninger, Raphael Katschinsky, Simon Hornung, Christian Eymüller, Alexander Poeppel and Wolfgang Reif |
-| 12:30 PM| **Lunch** | |
-| 01:45 PM | **Session 3** | *Chair: Chris Timperley* |
-| |  ROMoSu: flexible runtime monitoring support for ROS-based applications | Marco Stadler and Michael Vierhauser |
-| |  EzSkiROS: a case study on embedded robotics DSLs to catch bugs early | Momina Rizwan, Ricardo Caldas, Christoph Reichenbach and Matthias Mayr |
-| |  Augmenting robot software development with flexbot | Paulius Daubaris, Juhana Helovuo and Niko Mäkitalo |
-| 02:30 PM | **Structured discussion:** Frontiers Journal | All participants, *Chair: Chris Timperley* |
-| 03:15 PM | **Afternoon tea** | |
-| 03:45 PM | **Structured discussion:** Robotics Software Engineering | All participants, *Chair: Chris Timperley* |
-| 05:00 PM | **Wrap-up & closing of RoSE '23** | |
-| 06:00 PM | **Social Event: [Dinner at BangPop @ South Wharf](https://www.bangpop.com.au)** | |
-
-## Special Issue
-We recently launched a research collection about titled Robotics Software Engineering_ in the [Frontiers Robotics and AI journal](https://www.frontiersin.org/journals/robotics-and-ai).
-
-You can read more about the collection here: [https://www.frontiersin.org/research-topics/55665/robotics-software-engineering](https://www.frontiersin.org/research-topics/55665/robotics-software-engineering)
-
-This Research Topic is linked with the RoSE 2023. Any contributions presented at the workshop can be extended to contain 30% original content. However, this Research Topic welcomes relevant contributions that were not presented at the workshop.
-
-Frontiers is an open-access journal, so authors are expected to pay a fee for publishing in the Research Topic on Robotics Software Engineering. Nevertheless, during RoSE 2023 we will award the __BEST PAPER__ of the workshop with a _free waiver_ for a completely-free-of-charge publication in our Research Topic!
-
-The deadline for submission is __November 30, 2023__ (abstract submission: _September 30, 2023_), but Frontiers’ fast-track review process, led by our editorial team, means each article is published online as soon as it’s been successfully peer-reviewed and accepted (typically within 2 months).
-
-## Submission Guidelines
-
-Prospective participants are invited to submit
-- research papers presenting novel contributions on advancing software engineering in robotics (max. 8 pages);
-- challenge showcase papers describing robotics challenges considered insufficiently addressed from an industry perspective (max. 6 pages);
-- lessons learned papers describing lessons learned in the collaboration between the two communities of software engineering and robotics (max. 6 pages);
-- vision papers on the future of software engineering in robotics (max. 4 pages);
-- tool and project papers on software engineering in robotics (max. 4 pages).
-
-Workshop papers must follow the [ICSE 2023 formatting instructions](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=rose2023). Accepted papers will become part of the workshop proceedings.
-
-The official publication date is the date the proceedings are made available in the ACM or IEEE Digital Libraries. This date may be up to two weeks prior to the first day of ICSE 2023. The official publication date affects the deadline for any patent filings related to published work. Purchases of additional pages in the proceedings is not allowed.
+We invite submissions of: (1) position papers on visions or new directions for software design (max. 4 pages), (2) research papers presenting novel contributions on software design (max. 6 pages), (3) experience reports describing lessons learned in a practical or educational setting (max. 6 pages), and (4) proposals for presentations (max. 2 pages). Topics of interest include, but are not limited to, the following:
+- Empirical studies on software design
+- Cognitive and social aspects of software design
+- Designing software in hybrid and remote settings
+- The impact of artificial intelligence (AI) on software design; the role of design in AI-assisted software development
+- Processes and evaluation standards for software design research
+- Software design methodologies, principles, strategies, and patterns
+- Case studies of design successes and failures
+- Approaches for software design education, including pedagogies, curriculum development, and case studies
+- AI-assisted software design education
+- Theory building for/of software design
+- Software design for social dimensions (e.g., ethics, sustainability, privacy)
+- Software design for emerging domains (e.g., cyber-physical systems, IoT)
+- Rigorous approaches to software design (e.g., modeling and validation)
 
 ## Important Dates
 
-- Papers submission (extended): January 20, 2023 (AoE time)
-- Notification to authors (extended): March 2, 2023 (AoE time)
-- Camera-ready copies due: March 17, 2023 (AoE time)
-- Workshop: May 15, 2023
+[TBD]
+
+## Workshop Program
+
+[TBD]
 
 ## Organizing Committee
 
-- [Andreas Angerer](https://xitaso.com) (XITASO GmbH, Germany)
-- [Federico Ciccozzi](http://www.es.mdh.se/staff/266-Federico_Ciccozzi) (Mälardalen University, Sweden)
-- [Ivano Malavolta](http://www.ivanomalavolta.com) (Vrije Universiteit Amsterdam, The Netherlands)
-- [Christopher S. Timperley](http://www.christimperley.co.uk/) (Carnegie Mellon University, USA)
+- [Yuanfang Cai](https://www.cs.drexel.edu/~yfcai/) (Drexel University, USA)
+- [Michel R. V. Chaudron](https://research.tue.nl/en/persons/michel-rv-chaudron) (TU Eindhoven, Netherlands)
+- [Eunsuk Kang](https://eskang.github.io/) (Carnegie Mellon University, USA)
+- [André van der Hoek](https://www.ics.uci.edu/~andre/) (University of California, Irvine, USA)
 
 ## Program Committee
 
-* Mark Adamik, Vrije Universiteit Amsterdam, The Netherlands
-* Alwin Hoffmann, XITASO GmbH, Germany
-* Andreas Wortmann, RWTH Aachen University, Germany
-* Bradley Schmerl, Carnegie Mellon University, USA
-* Carlos Hernandez Corbato, TU Delft, The Netherlands
-* Charles Lesire-Cabaniols, French Aerospace lab (ONERA), France
-* Claudio Menghi, McMaster University, Canada
-* Daniel Sykes, Ocado Technology, UK
-* Darko Bozhinoski, Université libre de Bruxelles, Belgium
-* David Garlan, Carnegie Mellon University, USA
-* Davide Brugali, Università degli Studi di Bergamo, Italy
-* Davide Di Ruscio, Università degli Studi dell'Aquila, Italy
-* Ettore Merlo, Ecole Polytechnique of Montreal, Canada
-* Floris Erich, National Institute of Advanced Industrial Science and Technology, Japan
-* Holger Giese, Hasso Plattner Institute at the University of Potsdam, Germany
-* Jan Broenink, University of Twente, The Netherlands
-* Javier Camara, University of York, UK
-* Jesús Martínez, Universidad de Málaga, Spain
-* Juergen Dingel, Queen's University, Canada
-* Michel Albonico, Technological Federal University of Paraná, Brasil
-* Moritz Tenorth, Magazino GmbH, Germany
-* Nadia Hammoudeh Garcia, Fraunhofer Institute for Manufacturing Engineering and Automation IPA, Germany
-* Nico Hochgeschwender, University of Applied Sciences Bonn-Rhein-Sieg, Germany
-* Patrizio Pelliccione, Gran Sasso Science Institute, Italy
-* Ricardo Sanz, Universidad Politecnica de Madrid, Spain
-* Robert Bocchino, Jet Propulsion Laboratory, California Institute of Technology, USA
-* Rogardt Heldal, HLV, Norway
-* Sebastian Wrede, CoR-Lab, Bielefeld University, Germany
-* Simos Gerasimou, York University, UK
-* Ulrik Schultz, University of Southern Denmark, Denmark
+[TBD]
