@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Designing 2024
-subtitle: Official  page of the 1st edition of the International Workshop on Designing Software
 ---
 
 # 1st International Workshop on Designing Software (Designing 2024)
@@ -29,14 +28,14 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Important Dates
 
-[TBD]
-
-## Workshop Program
-
 - Nov 09, 2023: Workshop papers submission
 - Nov 21, 2023: Paper acceptance notification
 - Jan 25, 2024: Camera ready submission
 - Apr ??, 2024: Workshop date
+
+## Workshop Program
+
+[TBD]
 
 ## Organizing Committee
 
