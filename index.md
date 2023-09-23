@@ -28,9 +28,9 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Important Dates
 
-- Nov 09, 2023: Workshop papers submission
-- Nov 21, 2023: Paper acceptance notification
-- Jan 25, 2024: Camera ready submission
+- Nov 09, 2023: Paper submissions due
+- Nov 21, 2023: Acceptance notification
+- Jan 25, 2024: Camera ready due
 - Apr ??, 2024: Workshop date
 
 ## Workshop Program
