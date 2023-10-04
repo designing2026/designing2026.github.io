@@ -47,4 +47,17 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Program Committee
 
-[TBD]
+- Joanne Atlee (University of Waterloo, Canada)
+- David Budgen (University of Durham, UK)			
+- Janet Burge (Colorado College, USA)
+- George Fairbanks (Google, USA)
+- Regina Hebig (University of Rostock, Germany)
+- Rick Kazman (University of Hawaii, USA)	
+- Thomas LaToza (George Mason University, USA)
+- Adriana Meza Soria (IBM, USA)
+- Leonardo Murta (Federal University of Fluminense, Brazil)
+- Ipek Ozkaya (CMU Software Engineering Institute, USA)
+- Antony Tang (Swinburne University of Technology, Australia)
+- Claudia Werner (Federal University of Rio de Janeiro, Brazil)
+- Lu Xiao (Stevens Institute of Technology, USA)
+- Neil Ernst (University of Victoria, CA)
