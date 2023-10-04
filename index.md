@@ -52,6 +52,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 - Janet Burge (Colorado College, USA)
 - George Fairbanks (Google, USA)
 - Regina Hebig (University of Rostock, Germany)
+- Daniel Jackson (MIT, USA)
 - Rick Kazman (University of Hawaii, USA)	
 - Thomas LaToza (George Mason University, USA)
 - Adriana Meza Soria (IBM, USA)
