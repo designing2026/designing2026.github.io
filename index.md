@@ -57,6 +57,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 - Thomas LaToza (George Mason University, USA)
 - Adriana Meza Soria (IBM, USA)
 - Leonardo Murta (Federal University of Fluminense, Brazil)
+- Rob van Ommering (Philips Research North America, USA)
 - Ipek Ozkaya (CMU Software Engineering Institute, USA)
 - Antony Tang (Swinburne University of Technology, Australia)
 - Claudia Werner (Federal University of Rio de Janeiro, Brazil)
