@@ -10,7 +10,7 @@ Software design is a set of activities and decisions that are involved in the co
 
 This workshop aims to bring together researchers, practitioners, and educators who are interested in any aspect of software design, though we hope to place a specific focus on **designing software as an activity** in which developers, teams, and organizations engage. The workshop seeks to identify new directions and open challenges for the field. The workshop will be highly interactive and discussion-based, centered around a core set of topics on software design research and education. Each session will begin with short presentations by participants on a topic and proceed with breakout sessions to discuss the topic in depth. The outcome of the workshop is expected to be a report summarizing open problems, promising approaches, and next steps for advancing the state-of-the-art in software design practices and education.
 
-## Topics of Interest
+## Call for Contributions
 
 We invite submissions of: (1) position papers on visions or new directions for software design (max. 4 pages), (2) research papers presenting novel contributions on software design (max. 6 pages), (3) experience reports describing lessons learned in a practical or educational setting (max. 6 pages), and (4) proposals for presentations (max. 2 pages). Topics of interest include, but are not limited to, the following:
 - Empirical studies on software design
