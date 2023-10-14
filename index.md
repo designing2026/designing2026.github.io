@@ -36,9 +36,10 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Submission Instructions
 
+- Contributions should be submitted through the [EasyChair site](https://easychair.org/conferences/?conf=designing2024).
 - Workshop proceedings will be published in the ACM Digital Library.
 - Submissions should use the official ACM Primary Article Template, which can be obtained from the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) page.
-- LaTeX users should use the following document class: \documentclass[sigconf,review]{acmart} \acmConference[ICSE 2024]{46th International Conference on Software Engineering}{April 2024}{Lisbon, Portugal}
+- LaTeX users should use the following document class: \documentclass[sigconf,review]{acmart}
 
 ## Workshop Program
 
