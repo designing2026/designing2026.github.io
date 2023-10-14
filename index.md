@@ -34,6 +34,12 @@ We invite submissions of: (1) position papers on visions or new directions for s
 - Jan 25, 2024: Camera ready submission
 - Apr ??, 2024: Workshop date
 
+## Submission Instructions
+
+- Workshop proceedings will be published in the ACM Digital Library.
+- Submissions should use the official ACM Primary Article Template, which can be obtained from the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) page.
+- LaTeX users should use the following document class: \documentclass[sigconf,review]{acmart} \acmConference[ICSE 2024]{46th International Conference on Software Engineering}{April 2024}{Lisbon, Portugal}
+
 ## Workshop Program
 
 [TBD]
@@ -52,6 +58,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 - Janet Burge (Colorado College, USA)
 - George Fairbanks (Google, USA)
 - Regina Hebig (University of Rostock, Germany)
+- John Hosking (University of Auckland, New Zealand)
 - Daniel Jackson (MIT, USA)
 - Rick Kazman (University of Hawaii, USA)	
 - Thomas LaToza (George Mason University, USA)
@@ -59,6 +66,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 - Leonardo Murta (Federal University of Fluminense, Brazil)
 - Rob van Ommering (Philips Research North America, USA)
 - Ipek Ozkaya (CMU Software Engineering Institute, USA)
+- Marian Petre (Open University, UK)
 - Mary Shaw (Carnegie Mellon University, USA)
 - Antony Tang (Swinburne University of Technology, Australia)
 - Claudia Werner (Federal University of Rio de Janeiro, Brazil)
