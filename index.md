@@ -39,7 +39,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 - Contributions should be submitted through the [EasyChair site](https://easychair.org/conferences/?conf=designing2024). All proceedings (except the talk proposals) will be published in the ACM Digital Library.
 - Submissions should be written in the official ACM Primary Article Template, which can be obtained from the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) page.
 - For LaTeX users, please use the following document class:
-  > \\documentclass[sigconf,review]{acmart}
+```\documentclass[sigconf,review]{acmart}```
 
 ## Workshop Program
 
