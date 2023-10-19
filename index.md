@@ -64,6 +64,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 - Rick Kazman (University of Hawaii, USA)
 - Michael Keeling (Kiavi, USA)
 - Thomas LaToza (George Mason University, USA)
+- Clayton Lewis (University of Colorado Boulder, USA)
 - Adriana Meza Soria (IBM, USA)
 - Leonardo Murta (Federal University of Fluminense, Brazil)
 - Rob van Ommering (Philips Research North America, USA)
