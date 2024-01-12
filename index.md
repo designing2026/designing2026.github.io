@@ -31,7 +31,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 ## Important Dates
 
 - <span style="text-decoration:line-through">Dec 7</span><span style="color:red">Dec 15</span>, 2023: Workshop paper submission ([site](https://easychair.org/conferences/?conf=designing2024))
-- Jan 11, 2023: Acceptance notification
+- <span style="text-decoration:line-through">Jan 11</span><span style="color:red">Jan 14</span>, 2024: Acceptance notification
 - Jan 25, 2024: Camera ready submission
 - Apr 15, 2024: Workshop date
 
