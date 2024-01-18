@@ -44,7 +44,22 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Workshop Program
 
-[TBD]
+[Detailed program coming soon!]
+
+Accepted papers:
+- Executable Multi-Layered Software Models. Lukáš Radoský and Ivan Polášek
+- Designing business outcome-aligned cloud applications. Mahesh Venkataraman, Koushik Vijayaraghavan and Ram Ramalingam
+- Developing and Applying an Essence-based Description of the Attribute-Driven Design Method. Stefan Malich, Humberto Cervantes and Rick Kazman.
+- Design Spaces and How Software Designers Use Them: a sampler. Mary Shaw and Marian Petre
+- From Requirements to Architecture: An AI-Based Journey to Semi-Automatically Generate Software Architectures. Tobias Eisenreich, Sandro Speth and Stefan Wagner
+- Teaching Software Architecture Design - Building Intuition. Gaurav Agerwala and Len Bass
+- Investing in Software Design. Steven Fraser and Dennis Mancl
+- TAMVE: Properties of Design Technologies to Address Challenges to Software Design in the Era of Agility and Frameworks. Timothy Lethbridge
+- Weighted Metrics for the Development of Energy Efficient Software. Déaglán Connolly Bree and Mel Ó Cinnéide
+- The Architect in the Maze: On the Effective Usage of Automated Design Exploration. J. Andres Diaz-Pace and David Garlan
+- Co-Designing Resilient Socio-Technical Software Systems	Tamara Lopez, Helen Sharp and Michel Wermelinger
+- Challenges in Creating Effective Automated Design Environments: an experience report from the domain of generative manufacturing. David Garlan, Bradley Schmerl, Javier Cámara and Rebekka Wohlrab
+- Software Engineering Education: Towards Ethical, Reliable, and Beautiful Software. Aikya Inuganti, Madhuri Goyal and Mohammad Samarah
 
 ## Organizing Committee
 
