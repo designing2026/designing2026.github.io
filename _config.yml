@@ -20,7 +20,7 @@ author: Eunsuk Kang
 ###############################################
 
 navbar-links:
-   Program: "#program"
+   Program: "## Workshop Program"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
