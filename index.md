@@ -46,7 +46,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 [Detailed program coming soon!]
 
-Accepted papers:
+**Accepted papers**:
 - _Executable Multi-Layered Software Models._ Lukáš Radoský and Ivan Polášek
 - _Designing business outcome-aligned cloud applications._ Mahesh Venkataraman, Koushik Vijayaraghavan and Ram Ramalingam
 - _Developing and Applying an Essence-based Description of the Attribute-Driven Design Method._ Stefan Malich, Humberto Cervantes and Rick Kazman.
