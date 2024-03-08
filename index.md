@@ -56,8 +56,8 @@ We invite submissions of: (1) position papers on visions or new directions for s
 | 11:00 | **Education** |
 | | _Developing and Applying an Essence-based Description of the Attribute-Driven Design Method._ Stefan Malich, Humberto Cervantes and Rick Kazman. | 
 | | _Teaching Software Architecture Design - Building Intuition._ Gaurav Agerwala and Len Bass |
-| | _Software Engineering Education: Towards Ethical, Reliable, and Beautiful Software._ Aikya Inuganti, Madhuri Goyal and Mohammad Samarah |
 | | _Investing in Software Design._ Steven Fraser and Dennis Mancl |
+| | _Software Engineering Education: Towards Ethical, Reliable, and Beautiful Software._ Aikya Inuganti, Madhuri Goyal and Mohammad Samarah |
 | 11:40 | **Discussion:** Design exploration & education |
 | 12:30 | **Lunch** |
 | 2:00 | **Tooling** |
