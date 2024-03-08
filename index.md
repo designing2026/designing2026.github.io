@@ -68,7 +68,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 | | _Co-Designing Resilient Socio-Technical Software Systems._ Tamara Lopez, Helen Sharp and Michel Wermelinger |
 | | _Weighted Metrics for the Development of Energy Efficient Software._ Déaglán Connolly Bree and Mel Ó Cinnéide |
 | | _Designing business outcome-aligned cloud applications._ Mahesh Venkataraman, Koushik Vijayaraghavan and Ram Ramalingam |
-| 3:00 | **Discussion**: Tooling and domain-specific design |
+| 3:00 | **Discussion**: Tooling & domain-specific design |
 | 3:30 | **Coffee break** |
 | 4:00 | **Discussion (continued)** |
 | 4:15 | **Panel** |
