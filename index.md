@@ -44,7 +44,35 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Workshop Program
 
-[Detailed program coming soon!]
+| **Time** | **Session** | 
+| 9:00 | **Opening** |  
+| 9:10 | **Keynote** | 
+| | Justin Erenkrantz (MLB) |
+| 10:10 | **Design exploration** | 
+| | _Design Spaces and How Software Designers Use Them: a sampler._ Mary Shaw and Marian Petre |
+| | _The Architect in the Maze: On the Effective Usage of Automated Design Exploration._ J. Andres Diaz-Pace and David Garlan |
+| | _Challenges in Creating Effective Automated Design Environments: an experience report from the domain of generative manufacturing._ David Garlan, Bradley Schmerl, Javier Cámara and Rebekka Wohlrab|
+| 10:40 | **Coffee break** |
+| 11:00 | **Education** |
+| | _Developing and Applying an Essence-based Description of the Attribute-Driven Design Method._ Stefan Malich, Humberto Cervantes and Rick Kazman. | 
+| | _Teaching Software Architecture Design - Building Intuition._ Gaurav Agerwala and Len Bass |
+| | _Software Engineering Education: Towards Ethical, Reliable, and Beautiful Software._ Aikya Inuganti, Madhuri Goyal and Mohammad Samarah |
+| | _Investing in Software Design._ Steven Fraser and Dennis Mancl |
+| 11:40 | **Discussion:** Design exploration & education |
+| 12:30 | **Lunch** |
+| 2:00 | **Tooling** |
+| | _Executable Multi-Layered Software Models._ Lukáš Radoský and Ivan Polášek |
+| | _From Requirements to Architecture: An AI-Based Journey to Semi-Automatically Generate Software Architectures._ Tobias Eisenreich, Sandro Speth and Stefan Wagner |
+| | _TAMVE: Properties of Design Technologies to Address Challenges to Software Design in the Era of Agility and Frameworks._ Timothy Lethbridge |
+| 2:30 | **Domain-specific design** |
+| | _Co-Designing Resilient Socio-Technical Software Systems._ Tamara Lopez, Helen Sharp and Michel Wermelinger |
+| | _Weighted Metrics for the Development of Energy Efficient Software._ Déaglán Connolly Bree and Mel Ó Cinnéide |
+| | _Designing business outcome-aligned cloud applications._ Mahesh Venkataraman, Koushik Vijayaraghavan and Ram Ramalingam |
+| 3:00 | **Discussion**: Tooling and domain-specific design |
+| 3:30 | **Coffee break** |
+| 4:00 | **Discussion (continued)** |
+| 4:15 | **Panel** |
+| 5:00 | **Closing & future of Designing** |
 
 **Accepted papers**:
 - _Executable Multi-Layered Software Models._ Lukáš Radoský and Ivan Polášek
