@@ -48,6 +48,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 | 9:00 | **Opening** |  
 | 9:10 | **Keynote** | 
 | | [Justin Erenkrantz](https://www.erenkrantz.com/) (MLB) |
+| | Evolving System Design While Tracking Live Pitches and Players For Thousands of Games! |
 | 10:10 | **Design exploration** | 
 | | _Design Spaces and How Software Designers Use Them: a sampler._ Mary Shaw and Marian Petre |
 | | _The Architect in the Maze: On the Effective Usage of Automated Design Exploration._ J. Andres Diaz-Pace and David Garlan |
