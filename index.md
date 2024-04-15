@@ -69,7 +69,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 | | _Weighted Metrics for the Development of Energy Efficient Software._ Déaglán Connolly Bree and Mel Ó Cinnéide |
 | 2:50 | **Discussion**: Tooling & domain-specific design |
 | 3:30 | **Coffee break** |
-| 4:00 | **Panel** |
+| 4:00 | **Panel**: Michel Chaudron, Rick Kazman, Marian Petre, Mary Shaw, and Liming Zhu |
 | 5:00 | **Closing & future of Designing** |
 
 ## Organizing Committee
