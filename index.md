@@ -30,47 +30,15 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Important Dates
 
-- <span style="text-decoration:line-through">Dec 7</span><span style="color:red">Dec 15</span>, 2023: Workshop paper submission ([site](https://easychair.org/conferences/?conf=designing2024))
-- <span style="text-decoration:line-through">Jan 11</span><span style="color:red">Jan 14</span>, 2024: Acceptance notification
-- Jan 25, 2024: Camera ready submission
-- Apr 15, 2024: Workshop date
-
+- TBD
+- 
 ## Submission Instructions
 
-- Contributions should be submitted through the [EasyChair site](https://easychair.org/conferences/?conf=designing2024). All proceedings (except the talk proposals) will be published in the ACM Digital Library.
-- Submissions should be written in the official ACM Primary Article Template, which can be obtained from the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template) page.
-- For LaTeX users, please use the following document class:
-```\documentclass[sigconf,review]{acmart}```
+- TBD
 
 ## Workshop Program
 
-| **Time** | **Session** | 
-| 9:00 | **Opening** |  
-| 9:10 | **Keynote** | 
-| | [Justin Erenkrantz](https://www.erenkrantz.com/) (MLB) <br> [_Evolving System Design While Tracking Live Pitches and Players For Thousands of Games!_](https://conf.researchr.org/details/icse-2024/designing-2024-papers/3/Evolving-System-Design-While-Tracking-Live-Pitches-and-Players-For-Thousands-of-Games) |
-| 10:10 | **Design exploration** | 
-| | _Design Spaces and How Software Designers Use Them: a sampler._ Mary Shaw and Marian Petre |
-| | _The Architect in the Maze: On the Effective Usage of Automated Design Exploration._ J. Andres Diaz-Pace and David Garlan |
-| | _Challenges in Creating Effective Automated Design Environments: an experience report from the domain of generative manufacturing._ David Garlan, Bradley Schmerl, Javier Cámara and Rebekka Wohlrab|
-| 10:40 | **Coffee break** |
-| 11:00 | **Education** |
-| | _Developing and Applying an Essence-based Description of the Attribute-Driven Design Method._ Stefan Malich, Humberto Cervantes and Rick Kazman. | 
-| | _Teaching Software Architecture Design - Building Intuition._ Gaurav Agerwala and Len Bass |
-| | _Investing in Software Design._ Steven Fraser and Dennis Mancl |
-| | _Software Engineering Education: Towards Ethical, Reliable, and Beautiful Software._ Aikya Inuganti, Madhuri Goyal and Mohammad Samarah |
-| 11:40 | **Discussion:** Design exploration & education |
-| 12:30 | **Lunch** |
-| 2:00 | **Tooling** |
-| | _Executable Multi-Layered Software Models._ Lukáš Radoský and Ivan Polášek |
-| | _From Requirements to Architecture: An AI-Based Journey to Semi-Automatically Generate Software Architectures._ Tobias Eisenreich, Sandro Speth and Stefan Wagner |
-| | _TAMVE: Properties of Design Technologies to Address Challenges to Software Design in the Era of Agility and Frameworks._ Timothy Lethbridge |
-| 2:30 | **Domain-specific design** |
-| | _Co-Designing Resilient Socio-Technical Software Systems._ Tamara Lopez, Helen Sharp and Michel Wermelinger |
-| | _Weighted Metrics for the Development of Energy Efficient Software._ Déaglán Connolly Bree and Mel Ó Cinnéide |
-| 2:50 | **Discussion**: Tooling & domain-specific design |
-| 3:30 | **Coffee break** |
-| 4:00 | **Panel**: Michel Chaudron, Rick Kazman, Marian Petre, Mary Shaw, and Liming Zhu |
-| 5:00 | **Closing & future of Designing** |
+- TBD
 
 ## Organizing Committee
 
@@ -81,24 +49,5 @@ We invite submissions of: (1) position papers on visions or new directions for s
 
 ## Program Committee
 
-- Joanne Atlee (University of Waterloo, Canada)
-- David Budgen (University of Durham, UK)			
-- Janet Burge (Colorado College, USA)
-- George Fairbanks (Google, USA)
-- Regina Hebig (University of Rostock, Germany)
-- John Hosking (University of Auckland, New Zealand)
-- Daniel Jackson (MIT, USA)
-- Rick Kazman (University of Hawaii, USA)
-- Michael Keeling (Kiavi, USA)
-- Thomas LaToza (George Mason University, USA)
-- Clayton Lewis (University of Colorado Boulder, USA)
-- Adriana Meza Soria (IBM, USA)
-- Leonardo Murta (Federal University of Fluminense, Brazil)
-- Rob van Ommering (Philips Research North America, USA)
-- Ipek Ozkaya (CMU Software Engineering Institute, USA)
-- Marian Petre (Open University, UK)
-- Mary Shaw (Carnegie Mellon University, USA)
-- Antony Tang (Swinburne University of Technology, Australia)
-- Claudia Werner (Federal University of Rio de Janeiro, Brazil)
-- Lu Xiao (Stevens Institute of Technology, USA)
-- Neil Ernst (University of Victoria, CA)
+- TBD
+
