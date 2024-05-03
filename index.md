@@ -31,7 +31,7 @@ We invite submissions of: (1) position papers on visions or new directions for s
 ## Important Dates
 
 - TBD
-- 
+
 ## Submission Instructions
 
 - TBD
