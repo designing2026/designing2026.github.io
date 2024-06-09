@@ -21,6 +21,7 @@ We invite submissions of: (1) **position papers** on visions or new directions f
 - Processes and evaluation standards for software design research
 - Software design methodologies, principles, strategies, and patterns
 - Case studies of design successes and failures
+- Model problems to illustrate design challenges and support comparison of techniques and educational use
 - Approaches for software design education, including pedagogies, curriculum development, and case studies
 - AI-assisted software design education
 - Theory building for/of software design
