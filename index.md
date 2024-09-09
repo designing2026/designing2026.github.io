@@ -31,7 +31,10 @@ We invite submissions of: (1) **position papers** on visions or new directions f
 
 ## Important Dates
 
-- TBD
+- Nov 11, 2024: Paper submission
+- Dec 1, 2024: Acceptance notification
+- Feb 5, 2025: Camera ready submission
+- May ??, 2025: Workshop dates
 
 ## Submission Instructions
 
