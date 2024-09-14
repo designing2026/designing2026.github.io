@@ -38,7 +38,9 @@ We invite submissions of: (1) **position papers** on visions or new directions f
 
 ## Submission Instructions
 
-- TBD
+- Contributions should be submitted through the [EasyChair site](https://easychair.org/conferences/?conf=designing2025).
+- All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference
+Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). 
 
 ## Workshop Program
 
