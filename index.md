@@ -38,6 +38,7 @@ We invite submissions of: (1) **position papers** on visions or new directions f
 
 ## Submission Instructions
 
+- Contributions must be submitted through the [HotCRP site](https://designing2025.hotcrp.com/).
 - All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference
 Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). 
 
