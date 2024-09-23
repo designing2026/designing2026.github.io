@@ -13,7 +13,14 @@ This workshop aims to bring together researchers, practitioners, and educators w
 
 ## Call for Contributions
 
-We invite submissions of: (1) **position papers** on visions or new directions for software design (max. 4 pages), (2) **research papers** presenting novel contributions on software design (max. 8 pages), (3) **case study papers** describing a case study or a model problem that can be used by the community to compare and evaluate different approaches to design (max. 6 pages), (4) **education papers** that discuss novel techniques for teaching design and designing (max. 8 pages), and (5) **proposals for a workshop activity** outlining a specific activity (45 min to 1 hour long) to be carried out together with attendees, such as workshopping a new design method, debugging classroom challenges, or discussing ways to bridge the gap between academia and industry (max. 2 pages). Topics of interest include, but are not limited to, the following:
+We invite submissions in the following categories: 
+- **Position papers** on visions or new directions for software design (max. 4 pages)
+- **Research papers** presenting novel contributions on software design (max. 8 pages)
+- **Case study papers** describing a case study or a model problem that can be used by the community to compare and evaluate different approaches to design (max. 6 pages)
+- **Education papers** that discuss novel techniques for teaching design and designing (max. 8 pages)
+- **Proposals for a workshop activity** outlining a specific activity (45 min to 1 hour long) to be carried out together with attendees, such as workshopping a new design method, debugging classroom challenges, or discussing ways to bridge the gap between academia and industry (max. 2 pages). 
+
+Topics of interest include, but are not limited to, the following:
 - Empirical studies on software design
 - Cognitive and social aspects of software design
 - Designing software in hybrid and remote settings
