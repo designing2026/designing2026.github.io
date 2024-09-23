@@ -18,7 +18,7 @@ We invite submissions in the following categories:
 - **Research papers** presenting novel contributions on software design (max. 8 pages)
 - **Case study papers** describing a case study or a model problem that can be used by the community to compare and evaluate different approaches to design (max. 6 pages)
 - **Education papers** that discuss novel techniques for teaching design and designing (max. 8 pages)
-- **Proposals for a workshop activity** outlining a specific activity (45 min to 1 hour long) to be carried out together with attendees, such as workshopping a new design method, debugging classroom challenges, or discussing ways to bridge the gap between academia and industry (max. 2 pages). 
+- **Proposals for a workshop activity** outlining a specific activity (45 min to 1 hour long) to be carried out together with attendees, such as workshopping a new design method, debugging classroom challenges, or discussing ways to bridge the gap between academia and industry (max. 2 pages). The proposal must include (1) the objective(s) of the activity and expected outcome, (2) a high-level outline of the activity (e.g., a list of questions to be discussed by the participants), and (3) a plan for engaging possibly a large number (20~40) of participants (e.g., breakout groups).
 
 Topics of interest include, but are not limited to, the following:
 - Empirical studies on software design
