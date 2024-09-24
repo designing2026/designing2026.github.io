@@ -62,7 +62,17 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 
 ## Program Committee
 
-- TBD
+- David Budgen (University of Durham, UK)			
+- Janet Burge (Colorado College, USA)
+- Regina Hebig (University of Rostock, Germany)
+- Rick Kazman (University of Hawaii, USA)
+- Michael Keeling (Kiavi, USA)
+- Adriana Meza Soria (IBM, USA)
+- Leonardo Murta (Federal University of Fluminense, Brazil)
+- Marian Petre (Open University, UK)
+- Mohamed Soliman (Paderborn University, Germany)
+- Antony Tang (Swinburne University of Technology, Australia)
+- Lu Xiao (Stevens Institute of Technology, USA)
 
 ## Previous Editions
 
