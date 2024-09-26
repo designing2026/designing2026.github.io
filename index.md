@@ -62,6 +62,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 
 ## Program Committee
 
+- Joanne Atlee (University of Waterloo, CA)
 - David Budgen (University of Durham, UK)			
 - Janet Burge (Colorado College, US)
 - Regina Hebig (University of Rostock, Germany)
