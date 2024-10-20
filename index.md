@@ -39,7 +39,7 @@ Topics of interest include, but are not limited to, the following:
 ## Important Dates
 
 - Nov 11, 2024: Paper submission
-- Dec 1, 2024: Acceptance notification
+- Dec 8, 2024: Acceptance notification
 - Feb 5, 2025: Camera ready submission
 - May ??, 2025: Workshop dates
 
