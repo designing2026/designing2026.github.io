@@ -4,7 +4,7 @@ title: Designing 2025
 ---
 
 # 2nd International Workshop on Designing Software
-### May ??, 2025
+### April 27 & 28, 2025
 ### Co-located with [ICSE 2025](https://conf.researchr.org/home/icse-2025), Ottawa, Canada
 
 Software design is a set of activities and decisions that are involved in the construction of a software system, ranging from high-level architecture and conceptual design to code design. Decisions made during a design process have long-lasting impact on various qualities of a system, such as modularity, maintainability, scalability, robustness, security, usability, and performance. Despite its important role in software development, design is a subject that is still relatively little understood by both researchers and engineers – particularly in terms of design as an activity rather than design as a product/outcome. Although exceptions exist, in practice, design is frequently carried out in a somewhat ad-hoc, implicit manner. Teams often succeed in some way, though not always. Collectively, the research community has to date little systematic understanding of what makes certain designs and design processes successful, how to package and transfer knowledge about design and designing between teams and organizations, and how to design systems that are robust against a continuously evolving context. Teaching software design also remains a challenge for educators, with design being considered a skill that is acquired mainly through experience rather than something that can be taught in classrooms. 
@@ -41,7 +41,7 @@ Topics of interest include, but are not limited to, the following:
 - Nov 11, 2024: Paper submission
 - Dec 8, 2024: Acceptance notification
 - Feb 5, 2025: Camera ready submission
-- May ??, 2025: Workshop dates
+- Apr 27 & 28, 2025: Workshop dates
 
 ## Submission Instructions
 
