@@ -62,15 +62,15 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 
 ## Program Committee
 
-- Joanne Atlee (University of Waterloo, CA)
+- Joanne Atlee (University of Waterloo, Canada)
 - David Budgen (University of Durham, UK)			
 - Janet Burge (Colorado College, US)
 - Souti Chattopadhyay (University of Southern California, US)
-- Sarah D'Angelo (Google, NZ)
+- Sarah D'Angelo (Google, New Zealand)
 - Kiev Gama (Universidade Federal de Pernambuco, Brazil)
 - David Garlan (Carnegie Mellon University, US)
 - Regina Hebig (University of Rostock, Germany)
-- Mike Hoye (Pluralsight, CA)
+- Mike Hoye (Pluralsight, Canada)
 - Rick Kazman (University of Hawaii, US)
 - Michael Keeling (Kiavi, US)
 - Kumiyo Nakakoji (Future University Hakodate, Japan)
