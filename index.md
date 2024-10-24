@@ -38,7 +38,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Important Dates
 
-- Nov 11, 2024: Paper submission
+- <span style="text-decoration:line-through">Nov 11</span><span style="color:red">Nov 18</span>, 2023: Workshop paper submission ([site](https://designing2025.hotcrp.com/))
 - Dec 8, 2024: Acceptance notification
 - Feb 5, 2025: Camera ready submission
 - Apr 27 & 28, 2025: Workshop dates
@@ -47,7 +47,8 @@ Topics of interest include, but are not limited to, the following:
 
 - Contributions must be submitted through the [HotCRP site](https://designing2025.hotcrp.com/).
 - All submissions must conform to the IEEE conference proceedings template, specified in the [IEEE Conference
-Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). 
+Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html).
+- Submissions will undergo a single-blind process and be evaluated based on (1) relevance to the workshop and potential to generate stimulating discussions, (2) novelty (for research, education and position papers), and (3) presentation quality. 
 
 ## Workshop Program
 
