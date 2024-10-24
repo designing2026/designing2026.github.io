@@ -38,7 +38,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Important Dates
 
-- <span style="text-decoration:line-through">Nov 11</span><span style="color:red">Nov 18</span>, 2023: Workshop paper submission ([site](https://designing2025.hotcrp.com/))
+- <span style="text-decoration:line-through">Nov 11</span><span style="color:red">Nov 18</span>, 2024: Workshop paper submission ([site](https://designing2025.hotcrp.com/))
 - Dec 8, 2024: Acceptance notification
 - Feb 5, 2025: Camera ready submission
 - Apr 27 & 28, 2025: Workshop dates
