@@ -81,6 +81,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 - Mohammad Samarah (University of Maryland, Baltmore County, US)
 - Mohamed Soliman (Paderborn University, Germany)
 - Antony Tang (Swinburne University of Technology, Australia)
+- Ewan Tempero (University of Auckland, New Zealand)
 - Lu Xiao (Stevens Institute of Technology, US)
 
 ## Previous Editions
