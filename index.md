@@ -52,7 +52,44 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 
 ## Workshop Program
 
-- TBD
+### Day 1 (April 27) 
+
+| **Time** | **Session** | 
+| 9:00 | **Opening** |  
+| 9:10 | **Keynote #1** | 
+| | TBD |
+| 10:30 | **Coffee break** |
+| 11:00 | **Paper Session #1** |
+| | _Documenting and Communicating Design Decisions._ Steven Fraser, Dennis Mancl |
+| | _Integrating User Experience Design and Agile Software Development Processes._ Fayaz Suleman, David Wilson |
+| | _What is new when talking about sustainable software architectures?_ Elisa Yumi Nakagawa, Rick Kazman |
+| | _Assessing Compliance of Software System Designs to Laws, Regulations, and their Underlying Values._ Agnieszka Marczak-Czajka, Katherine Dearstyne, Jane Cleland-Huang |
+| 12:30 | **Lunch** |
+| 2:00 | **Activity** |
+| | _Curating Model Problems for Software Designing_ |
+| 3:30 | **Coffee break** |
+| 4:00 | **Activity** |
+| | _Understanding Design Practices in Industry_ |
+
+### Day 2 (April 28) 
+
+| **Time** | **Session** | 
+| 9:00 | **Keynote #2** | 
+| | TBD |
+| 10:30 | **Coffee break** |
+| 11:00 | **Paper Session #2** |
+| | _Design Obligations for Software, with Examples from Data Abstraction and Adaptive Systems._ Mary Shaw |
+| | _Building MVPs: An Experience Report of a Software Engineering Capstone Course._ Melissa Sahl, Mohammad Samarah |
+| | _Accessing LLMs for Front-end Software Architecture Knowledge._ Luiz Franciscatto Guerra, Neil Ernst |
+| | _Adaptive Abstraction with AI for Managing Software Antipatterns Throughout the Software Lifecycle._ Roberto Andrade, Jenny Torres, Pamela Flores, Erick Cabezas, Jorge Segovia |
+| | _A Structured Approach to Accessibility in Software Development Lifecycle._ Md Hasan Saju, Sanaa Alwidian, Partha Mazumder, Akramul Azim |
+| 12:30 | **Lunch** |
+| 2:00 | **Activity** |
+| | _Methods for Teaching Software Design_ |
+| 3:30 | **Coffee break** |
+| 4:00 | **Panel** |
+| | TBD |
+| 5:00 | **Summary and closing** |
 
 ## Organizing Committee
 
