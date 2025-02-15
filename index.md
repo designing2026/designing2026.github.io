@@ -57,7 +57,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | **Time** | **Session** | 
 | 9:00 | **Opening** |  
 | 9:10 | **Keynote #1** | 
-| | TBD |
+| | Rob van Ommering (Philips Research North America) |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #1** |
 | | _Documenting and Communicating Design Decisions._ Steven Fraser, Dennis Mancl |
@@ -75,7 +75,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 
 | **Time** | **Session** | 
 | 9:00 | **Keynote #2** | 
-| | TBD |
+| | Rick Kazman (University of Hawaii) |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #2** |
 | | _Design Obligations for Software, with Examples from Data Abstraction and Adaptive Systems._ Mary Shaw |
