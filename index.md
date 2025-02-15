@@ -57,7 +57,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | **Time** | **Session** | 
 | 9:00 | **Opening** |  
 | 9:10 | **Keynote #1** | 
-| | Rob van Ommering (Philips Research North America) |
+| | Rob van Ommering (Independent consultant) |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #1** |
 | | _Documenting and Communicating Design Decisions._ Steven Fraser, Dennis Mancl |
