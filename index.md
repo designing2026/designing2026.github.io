@@ -57,8 +57,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | **Time** | **Session** | 
 | 9:00 | **Opening** |  
 | 9:10 | **Keynote #1** | 
-| | Rob van Ommering (Independent consultant) <br> 
-_When the design is right_ |
+| | Rob van Ommering (Independent consultant) <br> _When the design is right_ |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #1** |
 | | _Documenting and Communicating Design Decisions._ Steven Fraser, Dennis Mancl |
@@ -76,8 +75,7 @@ _When the design is right_ |
 
 | **Time** | **Session** | 
 | 9:00 | **Keynote #2** | 
-| | Rick Kazman (University of Hawaii) <br> 
-_Design as a Creative Act_ |
+| | Rick Kazman (University of Hawaii) <br> _Design as a Creative Act_ |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #2** |
 | | _Design Obligations for Software, with Examples from Data Abstraction and Adaptive Systems._ Mary Shaw |
