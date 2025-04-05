@@ -57,7 +57,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | **Time** | **Session** | 
 | 9:00 | **Opening** |  
 | 9:10 | **Keynote #1** | 
-| | [Rob van Ommering (Independent consultant)](https://conf.researchr.org/details/icse-2025/designing-2025-papers/12/When-the-Design-is-Right) <br> [When the design is right](https://conf.researchr.org/details/icse-2025/designing-2025-papers/12/When-the-Design-is-Right) |
+| | [Rob van Ommering (Independent consultant)](https://conf.researchr.org/details/icse-2025/designing-2025-papers/12/When-the-Design-is-Right) <br> [_When the design is right_](https://conf.researchr.org/details/icse-2025/designing-2025-papers/12/When-the-Design-is-Right) |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #1** |
 | | _What is new when talking about sustainable software architectures?_ Elisa Yumi Nakagawa, Rick Kazman |
