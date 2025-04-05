@@ -60,9 +60,9 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | | Rob van Ommering (Independent consultant) <br> _When the design is right_ |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #1** |
+| | _What is new when talking about sustainable software architectures?_ Elisa Yumi Nakagawa, Rick Kazman |
 | | _Documenting and Communicating Design Decisions._ Steven Fraser, Dennis Mancl |
 | | _Integrating User Experience Design and Agile Software Development Processes._ Fayaz Suleman, David Wilson |
-| | _What is new when talking about sustainable software architectures?_ Elisa Yumi Nakagawa, Rick Kazman |
 | | _Assessing Compliance of Software System Designs to Laws, Regulations, and their Underlying Values._ Agnieszka Marczak-Czajka, Katherine Dearstyne, Jane Cleland-Huang |
 | 12:30 | **Lunch** |
 | 2:00 | **Activity** |
