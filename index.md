@@ -75,7 +75,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 
 | **Time** | **Session** | 
 | 9:00 | **Keynote #2** | 
-| | Rick Kazman (University of Hawaii) <br> _Design as a Creative Act_ |
+| | [Rick Kazman (University of Hawaii)](https://conf.researchr.org/details/icse-2025/designing-2025-papers/13/Design-as-a-Creative-Act) <br> [_Design as a Creative Act_](https://conf.researchr.org/details/icse-2025/designing-2025-papers/13/Design-as-a-Creative-Act) |
 | 10:30 | **Coffee break** |
 | 11:00 | **Paper Session #2** |
 | | _Design Obligations for Software, with Examples from Data Abstraction and Adaptive Systems._ Mary Shaw |
