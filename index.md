@@ -66,10 +66,10 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | | _Assessing Compliance of Software System Designs to Laws, Regulations, and their Underlying Values._ Agnieszka Marczak-Czajka, Katherine Dearstyne, Jane Cleland-Huang |
 | 12:30 | **Lunch** |
 | 2:00 | **Activity** |
-| | _Understanding Design Practices in Industry_  |
+| | _Software Design at the Intersection of AI, Academia, and Industry._ Yuanfang Cai |
 | 3:30 | **Coffee break** |
 | 4:00 | **Activity** |
-| | _Methods for Teaching Software Design_ |
+| | _Birds of a Feather: Methods for Teaching Software Design - Collecting Goals and Practices._ Michel Chaudron |
 
 ### Day 2 (April 28) 
 
@@ -85,7 +85,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | | _A Structured Approach to Accessibility in Software Development Lifecycle._ Md Hasan Saju, Sanaa Alwidian, Partha Mazumder, Akramul Azim |
 | 12:30 | **Lunch** |
 | 2:00 | **Activity** |
-| | _Curating Model Problems for Software Designing_ |
+| | _Curating Model Problems for Software Designing._ Marian Petre and Mary Shaw. |
 | 3:30 | **Coffee break** |
 | 4:00 | **Panel** |
 | | TBD |
