@@ -88,7 +88,7 @@ Proceedings Formatting Guidelines](https://www.ieee.org/conferences/publishing/t
 | | _Curating Model Problems for Software Designing._ Leaders: Marian Petre and Mary Shaw |
 | 3:30 | **Coffee break** |
 | 4:00 | **Panel** |
-| | Joanne Atlee, Yuanfang Cai, Rob van Ommering, Dennis Mancl |
+| | Joanne Atlee, Yuanfang Cai, Rob van Ommering, and Dennis Mancl |
 | 5:00 | **Summary and closing** |
 
 ## Organizing Committee
