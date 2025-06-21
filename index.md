@@ -38,10 +38,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Important Dates
 
-- [TBD]: Workshop paper submission ([site](https://designing2026.hotcrp.com/))
-- [TBD]: Acceptance notification
-- [TBD]: Camera ready submission
-- [TBD]: Workshop date
+TBD
 
 ## Submission Instructions
 
