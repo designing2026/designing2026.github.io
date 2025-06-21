@@ -53,7 +53,7 @@ TBD
 - [Michel R. V. Chaudron](https://research.tue.nl/en/persons/michel-rv-chaudron) (TU Eindhoven, Netherlands)
 - [Kiev Gama](https://www.cin.ufpe.br/~kiev/) (CIn/UFPE, Brazil)
 - [Eunsuk Kang](https://eskang.github.io/) (Carnegie Mellon University, USA)
-- [Lu Xiao](https://personal.stevens.edu/~lxiao6/)(Stevens Institute of Technology, USA)
+- [Lu Xiao](https://personal.stevens.edu/~lxiao6/) (Stevens Institute of Technology, USA)
 
 ## Program Committee
 
