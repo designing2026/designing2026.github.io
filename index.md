@@ -3,7 +3,7 @@ layout: page
 title: Designing 2026
 ---
 
-# 2nd International Workshop on Designing Software
+# 3rd International Workshop on Designing Software
 ### April ??, 2026
 ### Co-located with [ICSE 2026](https://conf.researchr.org/home/icse-2026), Rio, Brazil
 
