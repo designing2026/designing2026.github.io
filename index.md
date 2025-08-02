@@ -34,8 +34,6 @@ Topics of interest include, but are not limited to, the following:
 - Software design for emerging domains (e.g., cyber-physical systems, IoT)
 - Rigorous approaches to software design (e.g., modeling and validation)
 
-Due to the ACM Open policies, all papers, except extended abstracts, need to have an OA institutional agreement or undergo article processing charges (APCs) to be paid by the authors in order to be published. Extended abstracts are free of APC charges. The official publication date of the workshop proceedings is the date the proceedings are made available by ACM. This date may be up to two weeks prior to the first day of ICSE 2026. The official publication date affects the deadline for any patent filings related to published work.
-
 ## Important Dates
 
 - Oct 23, 2025: Workshop paper submission ([site](https://designing2026.hotcrp.com/))
