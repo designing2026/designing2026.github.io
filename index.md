@@ -14,11 +14,9 @@ This workshop aims to bring together researchers, practitioners, and educators w
 ## Call for Contributions
 
 We invite submissions in the following categories: 
-- **Position papers** on visions or new directions for software design (max. 4 pages)
-- **Research papers** presenting novel contributions on software design (max. 8 pages)
-- **Case study papers** describing a case study or a model problem that can be used by the community to compare and evaluate different approaches to design (max. 6 pages)
-- **Education papers** that discuss novel techniques for teaching design and designing (max. 8 pages)
-- **Proposals for a workshop activity** outlining a specific activity (1 to 1.5 hours long) to be carried out together with attendees, such as workshopping a new design method, debugging classroom challenges, or discussing ways to bridge the gap between academia and industry (max. 2 pages). The proposal must include (1) the objective(s) of the activity and expected outcome, (2) a high-level outline of the activity (e.g., a list of questions to be discussed by the participants), and (3) a plan for engaging possibly a large number (30~40) of participants (e.g., breakout groups).
+- **Technical papers** presenting novel **research** or **educational** contributions on software design (max. 8 pages),
+- **Extended abstracts** describing a new vision/direction for software design, preliminary results on a novel design approach, or a proposal for a workshop activity (max. 5 pages). In particular, an **activity proposal** should outline a specific activity (45 min to 1 hour long) to be carried out together with attendees, such as workshopping a new, promising approach to designing or teaching. 
+- **Case study papers** describing a case study or a model problem that can be used by the community to compare and evaluate different approaches to design (max. 6 pages).  
 
 Topics of interest include, but are not limited to, the following:
 - Empirical studies on software design
@@ -38,7 +36,10 @@ Topics of interest include, but are not limited to, the following:
 
 ## Important Dates
 
-TBD
+- Oct 23, 2025: Workshop paper submission ([site](https://designing2026.hotcrp.com/))
+- Nov 24, 2025: Acceptance notification
+- Jan 26, 2026: Camera ready submission
+- Apr ??, 2025: Workshop dates
 
 ## Submission Instructions
 
