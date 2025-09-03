@@ -61,7 +61,22 @@ TBD
 
 ## Program Committee
 
-TBD
+- David Budgen (University of Durham)
+- Janet Burge	(Colorado College)
+- Yuanfang Cai (Drexel University)
+- Chun Yong Chong	(Monash University Malaysia)
+- Rick Kazman	(University of Hawaii at Manoa)
+- Michael Keeling	
+- Fabio Kon	(University of Sao Paulo)
+- Ran Mo (Central China Normal University)
+- Elisa Yumi Nakagawa	(University of Sao Paulo)
+- Kumiyo Nakakoji	(Future University Hakodate)
+- Marian Petre (The Open University, UK)
+- Mary Shaw	(Carnegie Mellon University)
+- Mohamed Soliman	(Paderborn University)
+- Antony Tang	(Swinburne University of Technology)
+- Graziela Simone Tonin	(INSPER)
+- Andre van der Hoek (University of California, Irvine)
 
 ## Previous Editions
 
