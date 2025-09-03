@@ -68,7 +68,7 @@ TBD
 - Rick Kazman	(University of Hawaii at Manoa, US)
 - Michael Keeling	(Kiavi, US)
 - Fabio Kon	(University of Sao Paulo, Brazil)
-- Ran Mo (Central China Normal University, CN)
+- Ran Mo (Central China Normal University, China)
 - Elisa Yumi Nakagawa	(University of Sao Paulo, Brazil)
 - Kumiyo Nakakoji	(Future University Hakodate, Japan)
 - Marian Petre (The Open University, UK)
