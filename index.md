@@ -36,14 +36,17 @@ Topics of interest include, but are not limited to, the following:
 
 ## Important Dates
 
-- Oct 23, 2025: Workshop paper submission ([site](https://designing2026.hotcrp.com/))
+- Oct 20, 2025: Workshop paper submission ([site](https://icse2026-design.hotcrp.com/))
 - Nov 24, 2025: Acceptance notification
 - Jan 26, 2026: Camera ready submission
 - Apr ??, 2026: Workshop dates
 
 ## Submission Instructions
 
-TBD
+- Contributions must be sumitted through the [HotCRP](https://icse2026-design.hotcrp.com/) page.
+- All submissions must strictly conform to the [ACM conference proceedings formatting instructions](https://www.acm.org/publications/proceedings-template). The following LaTeX code must be placed at the start of the LaTeX document: \documentclass[sigconf,review]{acmart}
+- Submissions are single-blind: Authors’ names, institutions, and contact details should appear on the first page.
+- Submissions will be evaluated based on (1) relevance to the workshop and potential to generate stimulating discussions, (2) novelty, and (3) presentation quality.
 
 ## Workshop Program
 
