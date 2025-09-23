@@ -13,7 +13,7 @@ This workshop aims to bring together researchers, practitioners, and educators w
 
 ## Call for Contributions
 
-We invite submissions in the following categories: 
+We invite submissions in the following categories (all page limits include references and appendices): 
 - **Technical papers** presenting novel **research** or **educational** contributions on software design (max. 8 pages),
 - **Extended abstracts** describing a new vision/direction for software design, preliminary results on a novel design approach, or a proposal for a workshop activity (max. 5 pages). In particular, an **activity proposal** should outline a specific activity (45 min to 1 hour long) to be carried out together with attendees, such as workshopping a new, promising approach to designing or teaching. 
 - **Case study papers** describing a case study or a model problem that can be used by the community to compare and evaluate different approaches to design (max. 6 pages).  
