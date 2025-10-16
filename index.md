@@ -36,7 +36,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Important Dates
 
-- Oct 20, 2025: Workshop paper submission ([site](https://icse2026-design.hotcrp.com/))
+- <span style="text-decoration:line-through">Oct 20</span><span style="color:red">Oct 27</span>, 2025: Workshop paper submission ([site](https://icse2026-design.hotcrp.com/))
 - Nov 24, 2025: Acceptance notification
 - Jan 26, 2026: Camera ready submission
 - Apr ??, 2026: Workshop dates
